@@ -1,0 +1,10 @@
+fastmcp
+mcp
+httpx
+langchain
+langchain_core
+langchain_community
+langgraph
+langchain-google-genai
+langchain-mcp-adapters
+uvicorn
